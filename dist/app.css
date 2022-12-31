@@ -1414,7 +1414,7 @@ a, button, input {
   z-index: 10;
 }
 #vtrick-pro-main-nav .show-menu {
-  display: block;
+  display: block !important;
 }
 #vtrick-pro-main-nav ul#vtrick-pro-main-nav-menu {
   display: flex;
