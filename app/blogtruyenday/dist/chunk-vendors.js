@@ -3866,4 +3866,3 @@ function Ld(e){e=ol(e,hl);const t=ol(e.firestore,Sl);return Tl(Cl(t),e._key).the
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */!function(e,t=!0){!function(e){Er=e}(i.Jn),(0,i.Xd)(new s.wA("firestore",((e,{instanceIdentifier:n,options:r})=>{const i=e.getProvider("app").getImmediate(),s=new Sl(new zr(e.getProvider("auth-internal")),new Kr(e.getProvider("app-check-internal")),function(e,t){if(!Object.prototype.hasOwnProperty.apply(e.options,["projectId"]))throw new Fr(Rr.INVALID_ARGUMENT,'"projectId" not provided in firebase.initializeApp.');return new vi(e.options.projectId,t)}(i,n),i);return r=Object.assign({useFetchStreams:t},r),s._setSettings(r),s}),"PUBLIC").setMultipleInstances(!0)),(0,i.KN)(Yr,"3.8.0",e),(0,i.KN)(Yr,"3.8.0","esm2017")}()}}]);
-//# sourceMappingURL=chunk-vendors.js.map
